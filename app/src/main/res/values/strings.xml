@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyBMI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="etHeight">Height</string>
+    <string name="etWeight">Weight</string>
+    <string name="btSubmit">SUBMIT</string>
+    <string name="tvHint">Lets get your BMI!</string>
+    <string name="btBack">Back</string>
+    <string name="textHome">BMI</string>
+    <string name="textResult">Result</string>
+</resources>
